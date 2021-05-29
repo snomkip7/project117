@@ -1,0 +1,23 @@
+.header{
+    font-size: 27px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px gray;
+    font-family: 'Macondo Swash Caps', cursive;
+}
+.heading_div{
+    float: none;
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+    font-family: 'Nova Flat', cursive;
+    font-size: 23px;
+}
+.heading_div2{
+    font-size: 18px;
+    font-family: 'Comfortaa', cursive;
+}
+body{
+    background-image:url("family_background.jpg");
+    background-size: cover;
+}
